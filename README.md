@@ -14,3 +14,10 @@ DHCP qui donne des ip aux Pc du reseaux dans la plage : 192.168.1 a 192.168.1.4
 Le Routeur 1 a une adresse 200.200.200.1/28 
 Le routeur 2 a une adresse 200.200.200.2/28
 
+******SSH*******
+
+Nous avons cconfigurer la connexion par SSH sur le routeur 1
+Interface du Routeur SSH : G0/1
+Password SSH : toto
+
+
