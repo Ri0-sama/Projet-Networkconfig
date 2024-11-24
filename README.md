@@ -21,3 +21,14 @@ Interface du Routeur SSH : G0/1
 Password SSH : toto
 
 
+*****Config des ACL*****
+Les machines du reseau en couleur Bleue ne peuvent pas acceeder aux machines des reseaux en rouge sauf celle du ip 192.168.1.11 dont l'adresse a ete fixer statiquement
+Les machines du reseau en couleur Jaune peuvent acccerder aux reseaux en ccouleur Rouge
+
+
+*****Mapage NAT Statique******
+C'est la config qui a peermis a la machine 192.168.1.11 a accerder aux reseaux en Rouge
+
+
+
+
